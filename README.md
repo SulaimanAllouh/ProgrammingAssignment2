@@ -1,3 +1,13 @@
+> **Historical coursework archive**
+>
+> This repository is retained as part of my earlier Coursera / R programming learning record. The assignment text below is preserved for provenance and does **not** represent my current engineering, research, or production software work.
+>
+> Current public work: [sulaimanallouh.com](https://sulaimanallouh.com/) · [Field research](https://field.sulaimanallouh.com/) · [Writing](https://blog.sulaimanallouh.com/)
+>
+> **Sulaiman M. S. Allouh** · Civil engineer · resilience researcher · digital systems builder
+
+---
+
 ### Introduction
 
 This second programming assignment will require you to write an R
